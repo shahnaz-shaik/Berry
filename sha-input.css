@@ -1,0 +1,35 @@
+
+
+body{
+	background-color: lightcoral;
+	background-repeat: no-repeat;
+	display: block;
+	size: full;
+}
+#pl{
+	padding: 5px;
+	justify-content: space-around;
+	text-align: center;
+}
+#ci{
+	padding: 5px;
+	justify-content: space-around;
+	text-align: center;
+}
+#bhk{
+	padding: 5px;
+	justify-content: space-around;
+	text-align: center;
+}
+#prop{
+	padding: 5px;
+	justify-content: space-around;
+	text-align: center;
+
+}
+
+#budget{
+	padding: 5px;
+	display: inline-block;
+	text-align: center;
+}
